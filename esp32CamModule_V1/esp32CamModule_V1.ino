@@ -3,8 +3,8 @@
 #include "esp_camera.h"
 
 // Replace with your Wi-Fi credentials
-const char* ssid = "CEMD";
-const char* password = "cemd1811";
+const char* ssid = "xxxx";
+const char* password = "xxxx";
 
 
 // Static IP configuration
